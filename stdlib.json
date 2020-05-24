@@ -1,0 +1,5 @@
+{
+  "name": "janethl/airtable-url-to-attachments",
+  "timeout": 10000,
+  "connector": false
+}
